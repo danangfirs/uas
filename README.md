@@ -119,8 +119,4 @@ Backend Laravel tersedia di repository terpisah: [ombes](https://github.com/dana
 
 ## Lisensi
 
-Project ini dibuat untuk keperluan tugas UAS Praktikum Web Semester 3.
-
-## Kontributor
-
-- Danang Firdaus
+Project ini dibuat untuk keperluan tugas UAS Praktikum Web Semester 
